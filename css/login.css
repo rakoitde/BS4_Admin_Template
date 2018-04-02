@@ -1,0 +1,28 @@
+/*
+    RaKoITde STYLE
+*/
+
+/* ---------------------------------------------------
+    LOGIN STYLE
+----------------------------------------------------- */
+.login {
+	background: #e9ecef;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-height: 80vh;
+    -ms-flex-direction: row!important;
+    flex-direction: row!important;
+    -ms-flex-align: center!important;
+    align-items: center!important;
+}
+
+.login h1 {
+	color: #dae0e5;
+}
+
+.login .card {
+	background: #29363d;
+}
+
